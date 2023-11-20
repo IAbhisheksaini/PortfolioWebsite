@@ -1,0 +1,89 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* ... (previous styles) ... */
+
+#skills {
+    margin-top: 20px;
+
+}
+
+#skills h2 {
+    color: #333;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills li {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 5px;
+    padding: 8px;
+    
+}
+#ho:hover{
+    /* background-color: red; */
+    color :brown;
+
+}
+
+/* ... (remaining styles) ... */
+/* ... (previous styles) ... */
+
+#experience,
+#education {
+    margin-top: 20px;
+}
+
+#experience h2,
+#education h2 {
+    color: #333;
+}
+
+.job,
+.degree {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* ... (remaining styles) ... */
